@@ -1,0 +1,28 @@
+#title{
+    color:lightgoldenrodyellow;
+}
+
+dl > dd {
+    color:#1C1B22;
+}
+
+dl > dd:hover{
+    color:aquamarine;
+}
+
+
+ul li {
+    color: yellowgreen;
+}
+
+h2{
+    color:blanchedalmond;
+}
+
+h3{
+    color:blanchedalmond;
+}
+
+dl > dt{
+    color:yellowgreen;
+}
